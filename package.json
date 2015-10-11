@@ -1,0 +1,24 @@
+{
+  "name": "In-A-Dark-Dark-World",
+  "version": "0.0.0",
+  "description": "Once upon a time, in a dark, unforgiving land...",
+  "main": "index.js",
+  "dependencies": {
+    "voxel-hello-world": "0.6.0",
+    "voxel-engine": "0.20.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mulletfingers999/In-A-Dark-Dark-World.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Mullet",
+  "bugs": {
+    "url": "https://github.com/Mulletfingers999/In-A-Dark-Dark-World/issues"
+  }
+}
